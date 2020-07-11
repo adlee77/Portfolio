@@ -1,0 +1,106 @@
+{
+  "main": {
+    "name":"Andrew Lee",
+    "welcome":"Welcome!",
+    "description":"I am a web development engineer and I use react and javascript to develop web pages",
+    "image":"profilepic.jpg",
+    "bio":"Hello! I'm a full Stack Web Developer with a background in Music Studies. I recently earned a certificate in Full Stack Development from UCLA Extension with a strong grasp of CSS, Javascript, React.js, and Responsive Web Design. With a background in music, I’m known for my creativity, adaptability, resilience, and collaboration skills. I am excited to incorporate my skill set in Web Development by facing programming challenges with a fresh perspective and creative mindset. I'm always looking to work on a team of like-minded individuals that have a passion for enhancing web experience. ",
+    "contactmessage":"Get in touch!",
+    "email": "andrewimg@gmail.com",
+    "phone": "(805) 624-9237",
+    "github":"https://github.com/adlee77",
+    "linkedIn":"https://www.linkedin.com/in/andrewdavidlee7/",
+    "address":{
+      "street":"5880 Spiritlake Ct.",
+      "city":"Simi Valley",
+      "state":"CA",
+      "zip": "93063"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/andrewdavidlee7/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/andrew_david7/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/adlee77",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of California, Los Angeles Extension",
+        "degree":"Full Stack Web Development",
+        "graduated":"July 2020",
+        "description":"Studied HTML, CSS, JavaScript, JQuery, Java, Node.js, React.js, Heroku, User Auth., MongoDB, MySQL. Received Certificate of completion and completed various projects showcasing my skill in these topics."
+      },
+      {
+        "school":"University of California, Santa Barbara",
+        "degree":"Music Studies",
+        "graduated":"March 2020",
+        "description":"Studied Musicology with a focus on music theory and performance. Gained a full humanities education and took advantage of Python programming classes."
+      }
+    ],
+    "work":[
+      {
+        "company":"Gildred Racing Company",
+        "title":"Freelance React.js Developer",
+        "years":"March 2020-Present",
+        "description":"Worked with a team to design a car configurator for Super Mini Coopers using React.js. Utilized 'MERN' Stack to create a visually stunning UI and UX experience, as well as write clean and organized server side code. Used Passport.js for user authentication."
+      },
+      {
+        "company":"RE-VOLV",
+        "title":"Solar Ambassador",
+        "years":"January 2018 - May 2019",
+        "description":"Led crowdfunding campaign to raise enough money to cover costs of solar panels. Implemented marketing strategies including press releases, social media posts, and blogging. Managed all social media and blogging activities."
+      }
+    ],
+    "skills":[
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  }
+}
