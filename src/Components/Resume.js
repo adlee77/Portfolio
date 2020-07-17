@@ -72,6 +72,7 @@ class Resume extends Component {
               <li>CSS</li>
               <li>React.js</li>
               <li>Handlebars</li>
+              <li>Git</li>
             </ul>
           </div>
           <div className="col">
