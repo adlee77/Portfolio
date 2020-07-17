@@ -91,15 +91,15 @@
       },
       {
         "title":"Google Books Search",
-        "category":"A React app that uses Google Books API to search for books. Users can then save them to a mongoDB database",
+        "category":"A React.js app that uses Google Books API to search for books. Users can then save them to a mongoDB database",
         "image":"Googlebook.png",
         "url":"https://googlebooks-api-app.herokuapp.com/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Car Configurator",
+        "category":"Car configurator created using React.js",
+        "image":"Gildredracing.png",
+        "url":"Gildredracing.jpg"
       }
     ]
   }
