@@ -72,28 +72,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"NPR Music News Scraper",
+        "category":"A web scraper that scrapes music news from NPR.com. Users can save articles and write notes using MongoDB.",
+        "image":"NPRscraper.png",
+        "url":"https://npr-music-mongoscraper.herokuapp.com/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Burger App!",
+        "category":"First app I created using Handlebars and MySQL",
+        "image":"Burger-app.png",
+        "url":"https://burger-handlebars-yo.herokuapp.com/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Essy Essentials",
+        "category":"(Offline Now) Covid Essentials Shop build with Handlebars and MySQL. Utilizes Stripe API for payment processes.",
+        "image":"Essy-Essentials.png",
+        "url":"https://project-eo2.herokuapp.com/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Google Books Search",
+        "category":"A React app that uses Google Books API to search for books. Users can then save them to a mongoDB database",
+        "image":"Googlebook.png",
+        "url":"https://googlebooks-api-app.herokuapp.com/"
       },
       {
         "title":"Smirkspace",
