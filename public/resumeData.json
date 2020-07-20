@@ -16,8 +16,7 @@
       "state":"CA",
       "zip": "93063"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://docs.google.com/document/d/1zVQgeG76hfAuUJhYT0aaUzhOQ0qzZXrvHmy2Qe9Z3tg/edit?usp=sharing",
     "social":[
       {
         "name":"linkedin",
@@ -85,7 +84,7 @@
       },
       {
         "title":"Essy Essentials",
-        "category":"(Offline Now) Covid Essentials Shop build with Handlebars and MySQL. Utilizes Stripe API for payment processes.",
+        "category":"(MVP Only) Covid Essentials Shop build with Handlebars and MySQL. Utilizes Stripe API for payment processes.",
         "image":"Essy-Essentials.png",
         "url":"https://project-eo2.herokuapp.com/"
       },
