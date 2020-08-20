@@ -34,7 +34,8 @@ class Portfolio extends Component {
           <div className="twelve columns collapsed">
 
             <h1>Check Out Some of My Works.</h1>
-            <h1>Click Image for App Link or Github link for Github Repo</h1>
+            <h1 class="portfolio-header">Click Image for App Link or Github link for Github Repo</h1>
+            <h1 class="portfolio-header" id="portfolio-notice">*Note: These apps are hosted on Heroku and may take a minute to load in case they have fallen asleep</h1>
 
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
               {projects}
