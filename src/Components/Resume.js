@@ -78,10 +78,10 @@ class Resume extends Component {
           <div className="col">
             <ul id="list-col2">
               <li>JQuery</li>
-              <li>Python</li>
               <li>MongoDB</li>
               <li>SQL</li>
               <li>Node.js</li>
+              <li>PHP</li>
             </ul>
           </div>
         </div>
