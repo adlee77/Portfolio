@@ -52,16 +52,16 @@
     ],
     "work":[
       {
+        "company":"LabRoots",
+        "title":"Full Stack Developer",
+        "years":"September 2020 - Present",
+        "description": "Working with a team of four developers to ideate software solutions. Maintaining and updating databases through MySQL and Doctrine. Troubleshooting, debugging, and upgrading software. Building and implementing new features, applications, and API's. Utilizing the Symfony Framework in PHP."
+      },
+      {
         "company":"Gildred Racing Company",
         "title":"Freelance React.js Developer",
         "years":"February 2020-August 2020",
         "description": "Worked with a team of three graphic designers to create a car configurator app for Super Mini Coopers using React.js. Utilized the MERN Stack to create a visually stunning UI and UX experience and a clean and organized server."
-      },
-      {
-        "company":"RE-VOLV",
-        "title":"Solar Ambassador",
-        "years":"January 2018 - May 2019",
-        "description":"Led crowdfunding campaign to raise enough money to cover costs of solar panels. Implemented marketing strategies including press releases, social media posts, and blogging. Managed all social media and blogging activities."
       }
     ],
     "skills":[
