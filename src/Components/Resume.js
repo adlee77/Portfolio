@@ -21,12 +21,6 @@ class Resume extends Component {
         <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
         <p>{education.description}</p></div>
       })
-      var work = this.props.data.work.map(function(work){
-        return <div key={work.company}><h3>{work.company}</h3>
-            <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
-            <p>{work.description}</p>
-        </div>
-      })
     }
 
     return (
@@ -54,7 +48,28 @@ class Resume extends Component {
          </div>
 
          <div className="nine columns main-col">
-          {work}
+          <div>
+              <h3>LabRoots</h3>
+              <p class="info">Full Stack Developer<span>•</span> <em class="date">September 2020 - Present</em></p>
+              <ul class="position-duties">
+                  <li>Develop and implement features for the company's website, backend admin portal (Symfony &amp; MySQL), and maintain existing code.</li>
+                  <li>Integrate 3rd party APIs for import and export of registrant data, and extend website functionality.</li>
+                  <li>Utilize a variety of AWS services, including S3, RDS, and
+                      EC2 instances.</li>
+                  <li>Refactor and debug older code.</li>
+                  <li>Collaborate with a team of 4 devs using Git, BitBucket and
+                      AWS CodeCommit.</li>
+                  <li>Work primarily in the LEMP stack environment.&nbsp;</li>
+              </ul>
+          </div>
+          <div>
+            <h3>Gildred Racing Company</h3>
+            <p class="info">Freelance React.js Developer<span>•</span> <em class="date">February 2020 - August 2020</em></p>
+            <ul class="position-duties">
+                <li>Worked with a team of three graphic designers to create a car configurator app for Super Mini Coopers using React.js</li>
+                <li>Utilized the MERN Stack</li>
+            </ul>
+          </div>
         </div>
     </div>
 
@@ -71,15 +86,16 @@ class Resume extends Component {
               <li>HTML</li>
               <li>CSS</li>
               <li>React.js</li>
-              <li>Handlebars</li>
+              <li>AWS</li>
               <li>Git</li>
             </ul>
           </div>
           <div className="col">
             <ul id="list-col2">
-              <li>JQuery</li>
+              <li>Symfony</li>
+              <li>Laravel</li>
               <li>MongoDB</li>
-              <li>SQL</li>
+              <li>MySQL</li>
               <li>Node.js</li>
               <li>PHP</li>
             </ul>

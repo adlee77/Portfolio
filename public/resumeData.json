@@ -2,11 +2,11 @@
   "main": {
     "name":"Andrew Lee",
     "welcome":"Welcome!",
-    "description":"I am a web development engineer and I use React and Javascript to develop web pages",
+    "description":"I am a full stack developer with a passion for building websites and applications",
     "image":"profilepic.JPG",
-    "bio":"Hello! I'm a full Stack Web Developer with a background in Music Studies. I recently earned a certificate in Full Stack Development from UCLA Extension with a strong grasp of CSS, Javascript, React.js, and Responsive Web Design. With a background in music, I’m known for my creativity, adaptability, resilience, and collaboration skills. I am excited to incorporate my skill set in Web Development by facing programming challenges with a fresh perspective and creative mindset. I'm always looking to work on a team of like-minded individuals that have a passion for enhancing web experience. ",
+    "bio":"Hello! I'm a full Stack Web Developer with a background in Music Studies. I recently earned a certificate in Full Stack Development from UCLA Extension with a strong grasp of CSS, Javascript, React.js, and Responsive Web Design. With a background in music, I’m known for my creativity, adaptability, resilience, and collaboration skills. I am always excited to demonstrate my skill set in Web Development by facing programming challenges with a fresh perspective and creative mindset. I'm always looking to work on a team of like-minded individuals that have a passion for enhancing web experience.",
     "contactmessage":"Get in touch!",
-    "email": "andrewimg@gmail.com",
+    "email": "andrewlee.dev@outlook.com",
     "phone": "(805) 624-9237",
     "github":"https://github.com/adlee77",
     "linkedIn":"https://www.linkedin.com/in/andrewdavidlee7/",
@@ -71,23 +71,16 @@
     "projects": [
       {
         "title":"Car Configurator",
-        "category":"Car configurator created using React.js",
+        "category":"Car configurator app created using React.js. This is only a copy I was allowed to use for my portfolio",
         "image":"Gildredracing.png",
-        "url":"https://gildred-racing-configurator.herokuapp.com/",
+        "url":"https://car-configurator-copy.netlify.app/",
         "githubLink": "https://github.com/johnharmon805/Car-Configurator-Gildred-Racing"
       },
       {
-        "title":"NPR Music News Scraper",
-        "category":"A web scraper that scrapes music news from NPR.com. Users can save articles and write notes using MongoDB.",
-        "image":"NPRscraper.png",
-        "url":"https://npr-music-mongoscraper.herokuapp.com/",
-        "githubLink": "https://github.com/adlee77/MongoDB-Scraper"
-      },
-      {
         "title":"Google Books Search",
-        "category":"A React.js app that uses Google Books API to search for books. Users can then save them to a mongoDB database",
-        "image":"Googlebook.png",
-        "url":"https://googlebooks-api-app.herokuapp.com/",
+        "category":"A MERN stack app that uses Google Books API to search for books. Users can then save them to a mongoDB database",
+        "image":"GoogleBook.jpg",
+        "url":"https://google-book-saver-app.netlify.app/",
         "githubLink": "https://github.com/adlee77/google-books-api"
       },
       {
