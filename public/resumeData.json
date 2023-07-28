@@ -85,9 +85,9 @@
       },
       {
         "title":"Poker Tracker",
-        "category":"A Poker and other gambling game tracker app built in LAMP stack. Still in progress, but you can check out the git repo!",
-        "image":"poker-tracker.jpg",
-        "url":"",
+        "category":"A Poker Session tracker app built in LAMP stack (MVP only). Utilizes authentication and CRUD functionality. Still needs styling.",
+        "image":"poker_tracker.jpg",
+        "url":"https://poker-tracker-laravel-dcb5f1f4c230.herokuapp.com/",
         "githubLink": "https://github.com/adlee77/Poker-Tracker-Laravel"
       },
       {
