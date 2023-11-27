@@ -15,7 +15,7 @@
       "state":"CA",
       "zip": "93063"
     },
-    "resumedownload":"https://docs.google.com/document/d/e/2PACX-1vQOFU1eYY3xuVgsQrU9c0ACKc_NJ9uSaDgrpR_GJEhyMMkVXGDuZz7c1LQjQ7lWfD4i19pp6B-6HtPm/pub",
+    "resumedownload":"https://docs.google.com/document/d/1GXvWB4tCqrX__hYSaMRgTkveUw69A2V_ntyMveSfRoo/edit?usp=sharing",
     "social":[
       {
         "name":"linkedin",
@@ -35,7 +35,6 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
         "school":"University of California, Los Angeles Extension",
@@ -44,10 +43,10 @@
         "description":"Studied HTML, CSS, JavaScript, JQuery, Java, Node.js, React.js, Heroku, User Auth., MongoDB, MySQL. Received Certificate of completion and completed various projects showcasing my skill in these topics."
       },
       {
-        "school":"University of California, Santa Barbara",
-        "degree":"Music Studies",
-        "graduated":"March 2020",
-        "description":"Studied Musicology with a focus on music theory and performance. Gained a full humanities education and took advantage of Python programming classes."
+        "school":"Colorado State University Global",
+        "degree":"Computer Science",
+        "graduated":"December 2023",
+        "description":""
       }
     ],
     "work":[
