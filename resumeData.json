@@ -4,18 +4,18 @@
     "welcome":"Welcome!",
     "description":"I am a full stack developer with a passion for building websites and applications",
     "image":"profilepic.JPG",
-    "bio":"Hello! I'm a full Stack Web Developer with a background in Music Studies. I recently earned a certificate in Full Stack Development from UCLA Extension with a strong grasp of CSS, Javascript, React.js, and Responsive Web Design. With a background in music, I’m known for my creativity, adaptability, resilience, and collaboration skills. I am always excited to demonstrate my skill set in Web Development by facing programming challenges with a fresh perspective and creative mindset. I'm always looking to work on a team of like-minded individuals that have a passion for enhancing web experience.",
+    "bio":"Hello! I'm a full Stack Web Developer with a bachelors degree in Computer Science and Music. I have a strong grasp of CSS, Javascript, React.js, and Responsive Web Design. With a background in music, I’m known for my creativity, adaptability, resilience, and collaboration skills. I am always excited to demonstrate my skill set in Web Development by facing programming challenges with a fresh perspective and creative mindset. I'm always looking to work on a team of like-minded individuals that have a passion for enhancing web experience.",
     "contactmessage":"Get in touch!",
     "email": "andrewlee.dev@outlook.com",
     "phone": "(805) 624-9237",
     "github":"https://github.com/adlee77",
     "linkedIn":"https://www.linkedin.com/in/andrewdavidlee7/",
     "address":{
-      "city":"Simi Valley",
+      "city":"Los Angeles",
       "state":"CA",
-      "zip": "93063"
+      "zip": "91411"
     },
-    "resumedownload":"https://docs.google.com/document/d/e/2PACX-1vQOFU1eYY3xuVgsQrU9c0ACKc_NJ9uSaDgrpR_GJEhyMMkVXGDuZz7c1LQjQ7lWfD4i19pp6B-6HtPm/pub",
+    "resumedownload":"https://docs.google.com/document/d/1GXvWB4tCqrX__hYSaMRgTkveUw69A2V_ntyMveSfRoo/edit?usp=sharing",
     "social":[
       {
         "name":"linkedin",
@@ -35,7 +35,6 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
         "school":"University of California, Los Angeles Extension",
@@ -44,10 +43,10 @@
         "description":"Studied HTML, CSS, JavaScript, JQuery, Java, Node.js, React.js, Heroku, User Auth., MongoDB, MySQL. Received Certificate of completion and completed various projects showcasing my skill in these topics."
       },
       {
-        "school":"University of California, Santa Barbara",
-        "degree":"Music Studies",
-        "graduated":"March 2020",
-        "description":"Studied Musicology with a focus on music theory and performance. Gained a full humanities education and took advantage of Python programming classes."
+        "school":"Colorado State University Global",
+        "degree":"Computer Science",
+        "graduated":"December 2023",
+        "description":""
       }
     ],
     "work":[
@@ -60,7 +59,7 @@
       {
         "company":"Gildred Racing Company",
         "title":"Freelance React.js Developer",
-        "years":"February 2020-August 2020",
+        "years":"December 2019-August 2020",
         "description": "Worked with a team of three graphic designers to create a car configurator app for Super Mini Coopers using React.js. Utilized the MERN Stack to create a visually stunning UI and UX experience and a clean and organized server."
       }
     ],
@@ -80,7 +79,7 @@
         "title":"Google Books Search",
         "category":"A MERN stack app that uses Google Books API to search for books. Users can then save them to a mongoDB database",
         "image":"GoogleBook.jpg",
-        "url":"https://google-book-saver-app.netlify.app/",
+        "url":"https://googlebookssaver-50854f01ead1.herokuapp.com/",
         "githubLink": "https://github.com/adlee77/google-books-api"
       },
       {
@@ -89,6 +88,13 @@
         "image":"poker_tracker.jpg",
         "url":"https://poker-tracker-laravel-dcb5f1f4c230.herokuapp.com/",
         "githubLink": "https://github.com/adlee77/Poker-Tracker-Laravel"
+      },
+      {
+        "title":"Bird Friends!",
+        "category":"Coming Soon! A social media app for bird watching enthusiasts!",
+        "image":"bbirdfriendslogo.png",
+        "url":"",
+        "githubLink": "https://github.com/adlee77/bird-app"
       }
     ]
   }
