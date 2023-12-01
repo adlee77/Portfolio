@@ -4,16 +4,16 @@
     "welcome":"Welcome!",
     "description":"I am a full stack developer with a passion for building websites and applications",
     "image":"profilepic.JPG",
-    "bio":"Hello! I'm a full Stack Web Developer with a background in Music Studies. I recently earned a certificate in Full Stack Development from UCLA Extension with a strong grasp of CSS, Javascript, React.js, and Responsive Web Design. With a background in music, I’m known for my creativity, adaptability, resilience, and collaboration skills. I am always excited to demonstrate my skill set in Web Development by facing programming challenges with a fresh perspective and creative mindset. I'm always looking to work on a team of like-minded individuals that have a passion for enhancing web experience.",
+    "bio":"Hello! I'm a full Stack Web Developer with a bachelors degree in Computer Science and Music. I have a strong grasp of CSS, Javascript, React.js, and Responsive Web Design. With a background in music, I’m known for my creativity, adaptability, resilience, and collaboration skills. I am always excited to demonstrate my skill set in Web Development by facing programming challenges with a fresh perspective and creative mindset. I'm always looking to work on a team of like-minded individuals that have a passion for enhancing web experience.",
     "contactmessage":"Get in touch!",
     "email": "andrewlee.dev@outlook.com",
     "phone": "(805) 624-9237",
     "github":"https://github.com/adlee77",
     "linkedIn":"https://www.linkedin.com/in/andrewdavidlee7/",
     "address":{
-      "city":"Simi Valley",
+      "city":"Los Angeles",
       "state":"CA",
-      "zip": "93063"
+      "zip": "91411"
     },
     "resumedownload":"https://docs.google.com/document/d/1GXvWB4tCqrX__hYSaMRgTkveUw69A2V_ntyMveSfRoo/edit?usp=sharing",
     "social":[
@@ -59,7 +59,7 @@
       {
         "company":"Gildred Racing Company",
         "title":"Freelance React.js Developer",
-        "years":"February 2020-August 2020",
+        "years":"December 2019-August 2020",
         "description": "Worked with a team of three graphic designers to create a car configurator app for Super Mini Coopers using React.js. Utilized the MERN Stack to create a visually stunning UI and UX experience and a clean and organized server."
       }
     ],
@@ -79,7 +79,7 @@
         "title":"Google Books Search",
         "category":"A MERN stack app that uses Google Books API to search for books. Users can then save them to a mongoDB database",
         "image":"GoogleBook.jpg",
-        "url":"https://google-book-saver-app.netlify.app/",
+        "url":"https://googlebookssaver-50854f01ead1.herokuapp.com/",
         "githubLink": "https://github.com/adlee77/google-books-api"
       },
       {
@@ -90,11 +90,11 @@
         "githubLink": "https://github.com/adlee77/Poker-Tracker-Laravel"
       },
       {
-        "title":"Burger App!",
-        "category":"First app I created using Handlebars and MySQL. Heroku disabled my account... will be live again soon.",
-        "image":"Burger-app.png",
-        "url":"https://burger-handlebars-yo.herokuapp.com/",
-        "githubLink": "https://github.com/adlee77/Burgers-handlebars-"
+        "title":"Burger Friends!",
+        "category":"Coming Soon! A social media app for bird watching enthusiasts!",
+        "image":"",
+        "url":"",
+        "githubLink": ""
       }
     ]
   }
