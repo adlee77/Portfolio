@@ -90,11 +90,11 @@
         "githubLink": "https://github.com/adlee77/Poker-Tracker-Laravel"
       },
       {
-        "title":"Burger Friends!",
+        "title":"Bird Friends!",
         "category":"Coming Soon! A social media app for bird watching enthusiasts!",
-        "image":"",
+        "image":"bbirdfriendslogo.png",
         "url":"",
-        "githubLink": ""
+        "githubLink": "https://github.com/adlee77/bird-app"
       }
     ]
   }
