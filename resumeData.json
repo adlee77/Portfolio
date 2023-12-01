@@ -37,16 +37,16 @@
   "resume":{
     "education":[
       {
-        "school":"University of California, Los Angeles Extension",
-        "degree":"Full Stack Web Development",
-        "graduated":"July 2020",
-        "description":"Studied HTML, CSS, JavaScript, JQuery, Java, Node.js, React.js, Heroku, User Auth., MongoDB, MySQL. Received Certificate of completion and completed various projects showcasing my skill in these topics."
-      },
-      {
         "school":"Colorado State University Global",
         "degree":"Computer Science",
         "graduated":"December 2023",
-        "description":""
+        "description":"Finished Computer Science Bachelors program in 1 year (with transfer credits from UCSB)."
+      },
+      {
+        "school":"University of California, Santa Barbara",
+        "degree":"Music Studies",
+        "graduated":"December 2019",
+        "description":"Studied Musicology with a focus on music theory and performance. Gained a full humanities education and followed up with computer science minor courses."
       }
     ],
     "work":[
