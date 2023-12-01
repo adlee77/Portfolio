@@ -52,22 +52,20 @@ class Resume extends Component {
               <h3>LabRoots</h3>
               <p class="info">Full Stack Developer<span>•</span> <em class="date">September 2020 - Present</em></p>
               <ul class="position-duties">
-                  <li>Develop and implement features for the company's website, backend admin portal (Symfony &amp; MySQL), and maintain existing code.</li>
-                  <li>Integrate 3rd party APIs for import and export of registrant data, and extend website functionality.</li>
-                  <li>Utilize a variety of AWS services, including S3, RDS, and
-                      EC2 instances.</li>
-                  <li>Refactor and debug older code.</li>
-                  <li>Collaborate with a team of 4 devs using Git, BitBucket and
-                      AWS CodeCommit.</li>
-                  <li>Work primarily in the LEMP stack environment.&nbsp;</li>
+                  <li>Optimized Symfony's Sonata package for Content Management Systems (CMS) through the integration of custom features, resulting in a 20% improvement in team efficiency</li>
+                  <li>Automated deployment processes using AWS services and tools like AWS Elastic Beanstalk and AWS CodeDeploy to lower deployment time by over 10 minutes</li>
+                  <li>Integrated and developed RESTful APIs that utilized webhooks to enable seamless communication and data exchange between 10+ client systems</li>
+                  <li> Identified and implemented enhancements to MySQL query performance, resulting in significant increases in performance that reduced querying times from over 30 seconds to less that 1 in some cases</li>
+                  <li>Created cron jobs for scheduling backups, reporting, and optimizations to the database without interrupting production performance</li>
+                  <li> Reduced latency in our Google Lighthouse score by optimizing redundancies in JavaScript, resulting in a 20% increase and enhanced UX&nbsp;</li>
               </ul>
           </div>
           <div>
             <h3>Gildred Racing Company</h3>
             <p class="info">Freelance React.js Developer<span>•</span> <em class="date">February 2020 - August 2020</em></p>
             <ul class="position-duties">
-                <li>Worked with a team of three graphic designers to create a car configurator app for Super Mini Coopers using React.js</li>
-                <li>Utilized the MERN Stack</li>
+                <li>Worked on the standalone website for Gildred Racing, featured on Netflix's "Fastest Car," using Typescript, HTML, & CSS/SASS</li>
+                <li>Implemented dynamic and visually appealing features, contributing to an engaging online presence for the brand</li>
             </ul>
           </div>
         </div>
