@@ -91,9 +91,9 @@
       },
       {
         "title":"Bird Friends!",
-        "category":"Coming Soon! A social media app for bird watching enthusiasts!",
+        "category":"A social media app for bird watching enthusiasts! (Still in progress, but feel free to create an account and start posting!)",
         "image":"birdfriendslogo.png",
-        "url":"",
+        "url":"https://bird-friends-b7be59011cc1.herokuapp.com/",
         "githubLink": "https://github.com/adlee77/bird-app"
       }
     ]
